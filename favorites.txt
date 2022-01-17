@@ -1,5 +1,14 @@
+<<<<<<< HEAD
 Biryani
 
 Double ka meeta
 
 potato fry
+||||||| 15f555f
+=======
+Baahubali
+
+PK
+
+Cinderella Man
+>>>>>>> movies
